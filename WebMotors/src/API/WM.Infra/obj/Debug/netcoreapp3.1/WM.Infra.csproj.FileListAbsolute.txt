@@ -1,0 +1,12 @@
+C:\Users\PDA-Caio\source\repos\WebMotors\src\API\WM.Infra\bin\Debug\netcoreapp3.1\WM.Infra.deps.json
+C:\Users\PDA-Caio\source\repos\WebMotors\src\API\WM.Infra\bin\Debug\netcoreapp3.1\WM.Infra.dll
+C:\Users\PDA-Caio\source\repos\WebMotors\src\API\WM.Infra\obj\Debug\netcoreapp3.1\WM.Infra.csprojAssemblyReference.cache
+C:\Users\PDA-Caio\source\repos\WebMotors\src\API\WM.Infra\obj\Debug\netcoreapp3.1\WM.Infra.AssemblyInfoInputs.cache
+C:\Users\PDA-Caio\source\repos\WebMotors\src\API\WM.Infra\obj\Debug\netcoreapp3.1\WM.Infra.AssemblyInfo.cs
+C:\Users\PDA-Caio\source\repos\WebMotors\src\API\WM.Infra\bin\Debug\netcoreapp3.1\WM.Domain.dll
+C:\Users\PDA-Caio\source\repos\WebMotors\src\API\WM.Infra\bin\Debug\netcoreapp3.1\WM.Infra.pdb
+C:\Users\PDA-Caio\source\repos\WebMotors\src\API\WM.Infra\bin\Debug\netcoreapp3.1\WM.Domain.pdb
+C:\Users\PDA-Caio\source\repos\WebMotors\src\API\WM.Infra\obj\Debug\netcoreapp3.1\WM.Infra.csproj.CopyComplete
+C:\Users\PDA-Caio\source\repos\WebMotors\src\API\WM.Infra\obj\Debug\netcoreapp3.1\WM.Infra.dll
+C:\Users\PDA-Caio\source\repos\WebMotors\src\API\WM.Infra\obj\Debug\netcoreapp3.1\WM.Infra.pdb
+C:\Users\PDA-Caio\source\repos\WebMotors\src\API\WM.Infra\obj\Debug\netcoreapp3.1\WM.Infra.csproj.CoreCompileInputs.cache

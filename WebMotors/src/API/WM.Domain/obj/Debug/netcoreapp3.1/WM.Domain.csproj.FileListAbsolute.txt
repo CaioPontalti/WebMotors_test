@@ -1,0 +1,9 @@
+C:\Users\PDA-Caio\source\repos\WebMotors\src\API\WM.Domain\bin\Debug\netcoreapp3.1\WM.Domain.deps.json
+C:\Users\PDA-Caio\source\repos\WebMotors\src\API\WM.Domain\bin\Debug\netcoreapp3.1\WM.Domain.dll
+C:\Users\PDA-Caio\source\repos\WebMotors\src\API\WM.Domain\bin\Debug\netcoreapp3.1\WM.Domain.pdb
+C:\Users\PDA-Caio\source\repos\WebMotors\src\API\WM.Domain\obj\Debug\netcoreapp3.1\WM.Domain.csprojAssemblyReference.cache
+C:\Users\PDA-Caio\source\repos\WebMotors\src\API\WM.Domain\obj\Debug\netcoreapp3.1\WM.Domain.AssemblyInfoInputs.cache
+C:\Users\PDA-Caio\source\repos\WebMotors\src\API\WM.Domain\obj\Debug\netcoreapp3.1\WM.Domain.AssemblyInfo.cs
+C:\Users\PDA-Caio\source\repos\WebMotors\src\API\WM.Domain\obj\Debug\netcoreapp3.1\WM.Domain.dll
+C:\Users\PDA-Caio\source\repos\WebMotors\src\API\WM.Domain\obj\Debug\netcoreapp3.1\WM.Domain.pdb
+C:\Users\PDA-Caio\source\repos\WebMotors\src\API\WM.Domain\obj\Debug\netcoreapp3.1\WM.Domain.csproj.CoreCompileInputs.cache
